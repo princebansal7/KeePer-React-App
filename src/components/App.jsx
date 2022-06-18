@@ -8,14 +8,12 @@ function App() {
   const [notes, setNotes] = useState([]);
 
   function addNote(newNote) {
-    // console.log(note);
     setNotes((oldNotes) => {
       return [...oldNotes, newNote];
     });
   }
 
   function deleteNote(id) {
-    // console.log("Delete was triggered");
     setNotes((oldNotes) => {
       return oldNotes.filter((noteItem, index) => {
         return index !== id;
@@ -37,7 +35,6 @@ function App() {
           />
         );
       })}
-      {/* <Note key={1} title="Note title" data="Note Content" /> */}
       <Footer />
     </>
   );
