@@ -1,7 +1,7 @@
 # KeePer-React-App
 - This is **Note taking app** (A little like Google Keep) made using React js.
 - I haven't added backend yet (to store the Notes functionality.
-- I have used Material UI ifor icons.
+- I have used Material UI for icons.
 - Here are project screenshots:
   <br/><br/>
   <img src="src/images/1.png" alt="home page">
