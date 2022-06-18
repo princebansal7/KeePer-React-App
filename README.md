@@ -1,7 +1,7 @@
 # KeePer-React-App
-- This Repo have ToDo app (A little like Google Keep) made using React js.
-- I haven't added backend yet to store the Notes functionality, it just have frontend
-- I have added some Material UI icons also
+- This is **Note taking app** (A little like Google Keep) made using React js.
+- I haven't added backend yet (to store the Notes functionality.
+- I have used Material UI ifor icons.
 - Here are project screenshots:
   <br/><br/>
   <img src="src/images/1.png" alt="home page">
